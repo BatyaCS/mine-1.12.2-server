@@ -1,327 +1,391 @@
-[13:21:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[13:21:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[13:21:42] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
-[13:21:42] [main/INFO] [FML]: Searching C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\.\mods for mods
-[13:21:42] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin_1.8.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:21:42] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:21:42] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[13:21:42] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:21:42] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
-[13:21:42] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:21:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:21:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:21:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[13:21:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:21:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:21:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:21:43] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
-[13:21:43] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[13:21:43] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
-[13:21:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:21:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[13:21:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:21:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[13:21:44] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[13:21:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[13:21:46] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[13:21:46] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[13:21:46] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[13:21:47] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[13:21:47] [Server thread/INFO] [FML]: Searching C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\.\mods for mods
-[13:21:47] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.2.353
-[13:21:49] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
-[13:21:49] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[13:21:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, advanced_solar_panels, codechickenlib, cofhcore, cofhworld, forgelin, galacticraftplanets, galacticraftcore, gravisuite, ic2, industrialforegoing, railcraft, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, immersiveengineering] at CLIENT
-[13:21:49] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, advanced_solar_panels, codechickenlib, cofhcore, cofhworld, forgelin, galacticraftplanets, galacticraftcore, gravisuite, ic2, industrialforegoing, railcraft, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, immersiveengineering] at SERVER
-[13:21:52] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[13:21:53] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[13:21:53] [Server thread/INFO] [FML]: Found 1172 ObjectHolder annotations
-[13:21:53] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[13:21:53] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[13:21:53] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[13:21:53] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `molecular_transformer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_generator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `advanced_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `hybrid_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `ultimate_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
-[13:21:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[13:21:56] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
-[13:21:58] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
-[13:21:58] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
-[13:21:58] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: OUTDATED Target: 0.3.6
-[13:21:58] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: OUTDATED Target: 4.6.6
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: OUTDATED Target: 5.5.7
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: OUTDATED Target: 2.5.6
-[13:21:59] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
-[13:22:00] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: OUTDATED Target: 1.4.0
-[13:22:00] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
-[13:22:00] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
-[13:22:00] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Starting version check at http://www.railcraft.info/railcraft_versions
-[13:22:02] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Found status: BETA Target: null
-[13:22:02] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
-[13:22:02] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: OUTDATED Target: 0.12-92
-[13:22:02] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
-[13:22:02] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: OUTDATED Target: 2.6.7
-[13:22:04] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[13:22:05] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[13:22:05] [Server thread/INFO] [advanced_solar_panels]: Loading ASP Config from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\advanced_solar_panels.cfg
-[13:22:05] [Server thread/INFO] [advanced_solar_panels]: Loading MT Recipes from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\advanced_solar_panels_MTRecipes.cfg
-[13:22:06] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
-[13:22:12] [Server thread/INFO] [CoFH World]: Registering default World Generators...
-[13:22:12] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
-[13:22:12] [Server thread/INFO] [CoFH World]: Complete.
-[13:22:15] [Server thread/INFO] [gravisuite]: Loading GS Config from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\gravisuite.cfg
-[13:22:21] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:forestry
-[13:22:21] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Forestry not detected
-[13:22:21] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:thaumcraft
-[13:22:21] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Thaumcraft not detected
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `commandblock_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:commandblock_minecart with railcraft:cart_command_block.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:minecart with railcraft:cart_basic.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chest_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:chest_minecart with railcraft:cart_chest.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:furnace_minecart with railcraft:cart_furnace.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tnt_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:tnt_minecart with railcraft:cart_tnt.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hopper_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:hopper_minecart with railcraft:cart_hopper.
-[13:22:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `spawner_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:21] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:spawner_minecart with railcraft:cart_spawner.
-[13:22:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
-[13:22:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
-[13:22:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
-[13:22:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
-[13:22:26] [Server thread/WARN] [FML]: A mod has attempted to assign Block Block{minecraft:air} to the Fluid 'creosote' but this Fluid has already been linked to the Block Block{railcraft:creosote}. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
-[13:22:27] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
-[13:22:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:27] [Server thread/INFO] [FML]: Applying holder lookups
-[13:22:27] [Server thread/INFO] [FML]: Holder lookups applied
-[13:22:27] [Server thread/INFO] [FML]: Applying holder lookups
-[13:22:27] [Server thread/INFO] [FML]: Holder lookups applied
-[13:22:27] [Server thread/INFO] [FML]: Applying holder lookups
-[13:22:27] [Server thread/INFO] [FML]: Holder lookups applied
-[13:22:27] [Server thread/INFO] [FML]: Applying holder lookups
-[13:22:27] [Server thread/INFO] [FML]: Holder lookups applied
-[13:22:27] [Server thread/INFO] [FML]: Injecting itemstacks
-[13:22:27] [Server thread/INFO] [FML]: Itemstack injection complete
-[13:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[13:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[13:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[13:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[13:22:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[13:22:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:22:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[13:22:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:22:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:22:28] [Server thread/INFO] [railcraft]: Fluid ingredient factory loaded
-[13:22:28] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
-[13:22:28] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
-[13:22:28] [Server thread/INFO] [FML]: Applying holder lookups
-[13:22:28] [Server thread/INFO] [FML]: Holder lookups applied
-[13:22:29] [Server thread/INFO] [advanced_solar_panels]: Loading Molecular Transformer recipes from file
-[13:22:29] [Server thread/WARN] [advanced_solar_panels]: Skipping line 23 as the output (OreDict:gemSapphire) cannot be resolved
-[13:22:29] [Server thread/WARN] [advanced_solar_panels]: Skipping line 24 as the output (OreDict:gemRuby) cannot be resolved
-[13:22:29] [Server thread/WARN] [advanced_solar_panels]: Skipping line 27 as the output (OreDict:dustChrome) cannot be resolved
-[13:22:29] [Server thread/WARN] [advanced_solar_panels]: Skipping line 28 as the output (OreDict:ingotChrome) cannot be resolved
-[13:22:29] [Server thread/WARN] [advanced_solar_panels]: Skipping line 29 as the output (OreDict:gemCertusQuartz) cannot be resolved
-[13:22:29] [Server thread/INFO] [advanced_solar_panels]: Load complete, successfully loaded 17 out of 22.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc sealed ic2 cable`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `golden_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `detector_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `activator_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
-[13:22:30] [Server thread/WARN] [railcraft]: Tried, but failed to register thaumcraft:alumentum as a Blast Furnace Fuel recipe. Reason: Input was null or empty.
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 60 called mine_copper
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 15 called mine_gold
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_iron
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_lead
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_nickel
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 20 called mine_silver
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 50 called mine_tin
-[13:22:31] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_zinc
-[13:22:31] [Thread-7/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
-[13:22:31] [Thread-7/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 21 milliseconds
-[13:22:31] [Server thread/INFO] [FML]: Injecting itemstacks
-[13:22:31] [Server thread/INFO] [FML]: Itemstack injection complete
-[13:22:31] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[13:22:32] [Server thread/INFO] [ic2.General]: ic2 version 2.8.160-ex112 loaded.
-[13:22:32] [Server thread/INFO] [Galacticraft]: Galacticraft: activating ThermalExpansion compatibility features.
-[13:22:32] [Server thread/INFO] [Galacticraft]: Galacticraft: activating IndustrialCraft2 compatibility features.
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#0]=2.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [minecraft:ender_pearl]=4.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#6]=8.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#7]=12.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#0]=2.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [minecraft:ender_pearl]=4.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#6]=8.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#7]=12.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#0]=2.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [minecraft:ender_pearl]=4.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#6]=8.0
-[13:22:32] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#7]=12.0
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:light_blue_shulker_box, minecraft:purple_shulker_box, minecraft:black_shulker_box, minecraft:lime_shulker_box, minecraft:silver_shulker_box, minecraft:red_shulker_box, minecraft:magenta_shulker_box, minecraft:brown_shulker_box, minecraft:yellow_shulker_box, minecraft:blue_shulker_box, minecraft:cyan_shulker_box, minecraft:orange_shulker_box, minecraft:white_shulker_box, minecraft:gray_shulker_box, minecraft:green_shulker_box, minecraft:pink_shulker_box]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:water_bucket, minecraft:lava_bucket, minecraft:milk_bucket]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:advanced_re_battery, ic2:advanced_re_battery, ic2:re_battery, ic2:re_battery, ic2:charging_re_battery, ic2:charging_re_battery, ic2:batpack, ic2:batpack, ic2:single_use_battery, ic2:advanced_charging_re_battery, ic2:advanced_charging_re_battery, ic2:advanced_batpack, ic2:advanced_batpack]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:lapotron_crystal, ic2:lapotron_crystal, ic2:charging_lapotron_crystal, ic2:charging_lapotron_crystal, ic2:charging_energy_crystal, ic2:charging_energy_crystal, ic2:energy_crystal, ic2:energy_crystal]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:jetpack_electric, ic2:jetpack_electric]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:energy_pack, ic2:energy_pack]
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: []
-[13:22:32] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:te#68, ic2:te#69, ic2:te#70, ic2:te#71, ic2:te#72, ic2:te#73, ic2:te#74, ic2:te#75]
-[13:22:32] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: IndustrialCraft 2 Plugin Enabled.
-[13:22:32] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Immersive Engineering Plugin Enabled.
-[13:22:32] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xic2.alloy_chestplate@32767, missing knowledge for {1xitem.chestplateCloth@32767=1.0}
-[13:22:32] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xgravisuite.graviTool@32767, missing knowledge for {1xic2.electric_treetap@32767=1.0}
-[13:22:32] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
-[13:22:32] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
-[13:22:32] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\cofh\world"
-[13:22:32] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
-[13:22:32] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\01_thermalfoundation_ores.json":
-[13:22:33] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\02_thermalfoundation_oil.json":
-[13:22:33] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\03_thermalfoundation_clathrates.json":
-[13:22:33] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
-[13:22:33] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
-[13:22:33] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
-[13:22:33] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
-[13:22:33] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
-[13:22:33] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
-[13:22:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
-[13:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[13:22:33] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@574b399c)
-[13:22:34] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_corridor
-[13:22:34] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/simple_dungeon
-[13:22:34] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/abandoned_mineshaft
-[13:22:34] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_crossing
-[13:22:34] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/village_blacksmith
-[13:22:35] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 566 advancements
-[13:22:35] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@574b399c)
-[13:22:35] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@574b399c)
-[13:22:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[13:22:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
-[13:22:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
-[13:22:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
-[13:22:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
-[13:22:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
-[13:22:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
-[13:22:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
-[13:22:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
-[13:22:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 59%
-[13:22:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
-[13:22:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 74%
-[13:22:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 83%
-[13:22:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
-[13:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (16.147s)! For help, type "help" or "?"
-[13:22:50] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
-[13:22:50] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
-[13:22:50] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
-[13:22:50] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
-[13:22:50] [Server thread/INFO] [immersiveengineering]: WorldData loading
-[13:22:50] [Server thread/INFO] [immersiveengineering]: WorldData not found
-[13:22:51] [Server thread/INFO] [FML]: Unloading dimension -1
-[13:22:51] [Server thread/INFO] [FML]: Unloading dimension 1
-[13:22:51] [Thread-20/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
-[13:22:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2425ms behind, skipping 48 tick(s)
-[13:23:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[13:23:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[13:23:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[13:26:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[13:26:26] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[13:26:26] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_271
+[13:26:26] [main/INFO] [FML]: Searching C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\.\mods for mods
+[13:26:26] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin_1.8.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[13:26:26] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:26] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[13:26:26] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:26] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[13:26:26] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[13:26:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[13:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:27] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[13:26:27] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[13:26:27] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[13:26:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:26:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[13:26:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[13:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[13:26:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[13:26:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[13:26:31] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[13:26:31] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[13:26:31] [Server thread/INFO] [FML]: Searching C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\.\mods for mods
+[13:26:31] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.2.353
+[13:26:33] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[13:26:33] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[13:26:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, advanced_solar_panels, codechickenlib, cofhcore, cofhworld, forgelin, galacticraftplanets, galacticraftcore, gravisuite, ic2, industrialforegoing, projecte, railcraft, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, immersiveengineering] at CLIENT
+[13:26:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, advanced_solar_panels, codechickenlib, cofhcore, cofhworld, forgelin, galacticraftplanets, galacticraftcore, gravisuite, ic2, industrialforegoing, projecte, railcraft, redstoneflux, teslacorelib, teslacorelib_registries, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, immersiveengineering] at SERVER
+[13:26:36] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[13:26:38] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[13:26:38] [Server thread/INFO] [FML]: Found 1172 ObjectHolder annotations
+[13:26:38] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[13:26:38] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[13:26:38] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[13:26:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `molecular_transformer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_generator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `advanced_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `hybrid_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `ultimate_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[13:26:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[13:26:42] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[13:26:43] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[13:26:43] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[13:26:44] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: OUTDATED Target: 1.4.0
+[13:26:44] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Starting version check at http://www.railcraft.info/railcraft_versions
+[13:26:45] [Forge Version Check/INFO] [forge.VersionCheck]: [railcraft] Found status: BETA Target: null
+[13:26:45] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: OUTDATED Target: 2.6.7
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: OUTDATED Target: 4.6.6
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: OUTDATED Target: 2.5.6
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[13:26:46] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: OUTDATED Target: 5.5.7
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: OUTDATED Target: 0.3.6
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.12.x/update.json
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Found status: OUTDATED Target: 1.12.2-PE1.4.1
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
+[13:26:47] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: OUTDATED Target: 0.12-92
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[13:26:49] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[13:26:50] [Server thread/INFO] [advanced_solar_panels]: Loading ASP Config from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\advanced_solar_panels.cfg
+[13:26:50] [Server thread/INFO] [advanced_solar_panels]: Loading MT Recipes from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\advanced_solar_panels_MTRecipes.cfg
+[13:26:51] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[13:26:51] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[13:26:51] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[13:26:51] [Server thread/INFO] [CoFH World]: Complete.
+[13:26:53] [Server thread/INFO] [gravisuite]: Loading GS Config from C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\gravisuite.cfg
+[13:26:59] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:thaumcraft
+[13:26:59] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Thaumcraft not detected
+[13:26:59] [Server thread/INFO] [railcraft]: Module failed prerequisite check, disabling: railcraft:forestry
+[13:26:59] [Server thread/INFO] [railcraft]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Forestry not detected
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `commandblock_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:commandblock_minecart with railcraft:cart_command_block.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:minecart with railcraft:cart_basic.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chest_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:chest_minecart with railcraft:cart_chest.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:furnace_minecart with railcraft:cart_furnace.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tnt_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:tnt_minecart with railcraft:cart_tnt.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hopper_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:hopper_minecart with railcraft:cart_hopper.
+[13:27:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `spawner_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:00] [Server thread/INFO] [railcraft]: Successfully substituted minecraft:spawner_minecart with railcraft:cart_spawner.
+[13:27:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:27:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:27:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:27:01] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[13:27:04] [Server thread/WARN] [FML]: A mod has attempted to assign Block Block{minecraft:air} to the Fluid 'creosote' but this Fluid has already been linked to the Block Block{railcraft:creosote}. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[13:27:05] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[13:27:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[13:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[13:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[13:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[13:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[13:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[13:27:05] [Server thread/INFO] [FML]: Applying holder lookups
+[13:27:05] [Server thread/INFO] [FML]: Holder lookups applied
+[13:27:05] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:27:05] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[13:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[13:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[13:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[13:27:05] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[13:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[13:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:27:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:27:06] [Server thread/INFO] [railcraft]: Fluid ingredient factory loaded
+[13:27:06] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
+[13:27:06] [Server thread/INFO] [railcraft]: Remaining item shaped recipe factory loaded
+[13:27:07] [Server thread/INFO] [FML]: Applying holder lookups
+[13:27:07] [Server thread/INFO] [FML]: Holder lookups applied
+[13:27:08] [Server thread/INFO] [advanced_solar_panels]: Loading Molecular Transformer recipes from file
+[13:27:08] [Server thread/WARN] [advanced_solar_panels]: Skipping line 23 as the output (OreDict:gemSapphire) cannot be resolved
+[13:27:08] [Server thread/WARN] [advanced_solar_panels]: Skipping line 24 as the output (OreDict:gemRuby) cannot be resolved
+[13:27:08] [Server thread/WARN] [advanced_solar_panels]: Skipping line 27 as the output (OreDict:dustChrome) cannot be resolved
+[13:27:08] [Server thread/WARN] [advanced_solar_panels]: Skipping line 28 as the output (OreDict:ingotChrome) cannot be resolved
+[13:27:08] [Server thread/WARN] [advanced_solar_panels]: Skipping line 29 as the output (OreDict:gemCertusQuartz) cannot be resolved
+[13:27:08] [Server thread/INFO] [advanced_solar_panels]: Load complete, successfully loaded 17 out of 22.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc sealed ic2 cable`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `golden_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `detector_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `activator_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[13:27:09] [Server thread/WARN] [railcraft]: Tried, but failed to register thaumcraft:alumentum as a Blast Furnace Fuel recipe. Reason: Input was null or empty.
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 60 called mine_copper
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 15 called mine_gold
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_iron
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_lead
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 40 called mine_nickel
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 20 called mine_silver
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 50 called mine_tin
+[13:27:09] [Server thread/INFO] [railcraft]: Registered Mine Ore Generator at depth 30 called mine_zinc
+[13:27:09] [Thread-7/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[13:27:09] [Thread-7/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 23 milliseconds
+[13:27:09] [Server thread/INFO] [FML]: Injecting itemstacks
+[13:27:09] [Server thread/INFO] [FML]: Itemstack injection complete
+[13:27:09] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[13:27:10] [Server thread/INFO] [ic2.General]: ic2 version 2.8.160-ex112 loaded.
+[13:27:10] [Server thread/INFO] [Galacticraft]: Galacticraft: activating ThermalExpansion compatibility features.
+[13:27:10] [Server thread/INFO] [Galacticraft]: Galacticraft: activating IndustrialCraft2 compatibility features.
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Standard Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Personal Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#0]=2.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#6]=8.0
+[13:27:10] [Server thread/INFO] [railcraft]: Adding Passive Worldspike Fuel: [railcraft:dust#7]=12.0
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:purple_shulker_box, minecraft:magenta_shulker_box, minecraft:gray_shulker_box, minecraft:white_shulker_box, minecraft:pink_shulker_box, minecraft:silver_shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:red_shulker_box, minecraft:yellow_shulker_box, minecraft:light_blue_shulker_box, minecraft:orange_shulker_box, minecraft:black_shulker_box, minecraft:lime_shulker_box, minecraft:cyan_shulker_box, minecraft:green_shulker_box]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [minecraft:milk_bucket, minecraft:lava_bucket, minecraft:water_bucket]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:advanced_re_battery, ic2:advanced_re_battery, ic2:charging_re_battery, ic2:charging_re_battery, ic2:advanced_charging_re_battery, ic2:advanced_charging_re_battery, ic2:advanced_batpack, ic2:advanced_batpack, ic2:single_use_battery, ic2:batpack, ic2:batpack, ic2:re_battery, ic2:re_battery]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:lapotron_crystal, ic2:lapotron_crystal, ic2:charging_energy_crystal, ic2:charging_energy_crystal, ic2:energy_crystal, ic2:energy_crystal, ic2:charging_lapotron_crystal, ic2:charging_lapotron_crystal]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:jetpack_electric, ic2:jetpack_electric]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:energy_pack, ic2:energy_pack]
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: []
+[13:27:10] [Server thread/INFO] [railcraft]: Blacklisting Cargo: [ic2:te#68, ic2:te#69, ic2:te#70, ic2:te#71, ic2:te#72, ic2:te#73, ic2:te#74, ic2:te#75]
+[13:27:10] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: IndustrialCraft 2 Plugin Enabled.
+[13:27:10] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Immersive Engineering Plugin Enabled.
+[13:27:11] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
+[13:27:11] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xic2.alloy_chestplate@32767, missing knowledge for {1xitem.chestplateCloth@32767=1.0}
+[13:27:11] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xgravisuite.graviTool@32767, missing knowledge for {1xic2.electric_treetap@32767=1.0}
+[13:27:11] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[13:27:11] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "C:\Users\BatyaCS\Desktop\git-mine\mine-1.12.2-server\config\cofh\world"
+[13:27:11] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
+[13:27:11] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\01_thermalfoundation_ores.json":
+[13:27:11] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\02_thermalfoundation_oil.json":
+[13:27:11] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\03_thermalfoundation_clathrates.json":
+[13:27:11] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[13:27:11] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[13:27:11] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[13:27:11] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
+[13:27:11] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
+[13:27:11] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
+[13:27:12] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
+[13:27:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[13:27:12] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4193fde5)
+[13:27:12] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_corridor
+[13:27:12] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/simple_dungeon
+[13:27:12] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/abandoned_mineshaft
+[13:27:12] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/stronghold_crossing
+[13:27:12] [Server thread/INFO] [railcraft]: Appending Loot Pools to minecraft:chests/village_blacksmith
+[13:27:13] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 585 advancements
+[13:27:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4193fde5)
+[13:27:13] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4193fde5)
+[13:27:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[13:27:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 4%
+[13:27:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 6%
+[13:27:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 12%
+[13:27:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[13:27:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[13:27:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 34%
+[13:27:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[13:27:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
+[13:27:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 57%
+[13:27:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[13:27:24] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[13:27:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[13:27:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[13:27:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[13:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (15.685s)! For help, type "help" or "?"
+[13:27:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[13:27:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[13:27:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[13:27:27] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[13:27:27] [Server thread/INFO] [projecte]: Starting server-side EMC mapping.
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'obisidan.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'iron.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'gold.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'copper.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'tin.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'silver.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'lead.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'nickel.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminum.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'ardite.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'cobalt.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'platinum.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'obsidian.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'electrum.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'invar.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'signalum.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'lumium.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'enderium.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'mithril.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'bronze.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminumbrass.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'manyullyn.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'alumite.molten'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'emerald.liquid'
+[13:27:28] [Server thread/WARN] [projecte]: Can not get Fluid 'pryotheum'
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*minecraft:iron_nugget:0 => 1*minecraft:iron_ingot:0) cost 252 but output value is 256
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*immersiveengineering:metal:29 => 1*minecraft:iron_ingot:0) cost 252 but output value is 256
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:17 => 1*minecraft:emerald:0) cost 16380 but output value is 16384
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@3, 1xitem.thermalfoundation.material@195, 1xitem.immersiveengineering.metal@22] => 1*railcraft:ingot:3" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*railcraft:ingot:3
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@2, 1xitem.thermalfoundation.material@193] => 1*railcraft:ingot:2" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*railcraft:ingot:2
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@1, 1xitem.thermalfoundation.material@192, 1xitem.immersiveengineering.metal@20] => 1*railcraft:ingot:1" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*railcraft:ingot:1
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@7, 1xitem.thermalfoundation.material@226] => 1*railcraft:ingot:7" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 1*OD: ingotNickel + 2*OD: ingotIron => 3*railcraft:ingot:7
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@6, 1xitem.thermalfoundation.material@197, 1xitem.immersiveengineering.metal@24] => 1*railcraft:ingot:6" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*railcraft:ingot:6
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@5, 1xitem.thermalfoundation.material@227] => 1*railcraft:ingot:5" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*railcraft:ingot:5
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@4, 1xitem.thermalfoundation.material@194, 1xitem.immersiveengineering.metal@23] => 1*railcraft:ingot:4" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*railcraft:ingot:4
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*minecraft:gold_nugget:0 => 1*minecraft:gold_ingot:0" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*OD: ingotIron => 1*minecraft:gold_ingot:0
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 1*minecraft:cobblestone:0 + 1*minecraft:stone:3 => 2*minecraft:stone:5) cost 17 but output value is 16
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:229 => 1*thermalfoundation:material:165" ingredient cost: 378 value of result: 384 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotSilver + 10*OD: dustRedstone => 4*thermalfoundation:material:165
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:230 => 1*thermalfoundation:material:166" ingredient cost: 702 value of result: 704 setValueFromConversion: 0 + 3*OD: ingotTin + 1*OD: ingotSilver + 4*OD: dustGlowstone => 4*thermalfoundation:material:166
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@225, 1xitem.immersiveengineering.metal@27] => 1*thermalfoundation:material:161" ingredient cost: 1278 value of result: 1280 setValueFromConversion: 0 + 1*OD: ingotSilver + 1*OD: ingotGold => 2*thermalfoundation:material:161
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@7, 1xitem.thermalfoundation.material@226] => 1*thermalfoundation:material:162" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 1*OD: ingotNickel + 2*OD: ingotIron => 3*thermalfoundation:material:162
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@5, 1xitem.thermalfoundation.material@227] => 1*thermalfoundation:material:163" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*thermalfoundation:material:163
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@196, 1xitem.immersiveengineering.metal@21] => 1*thermalfoundation:material:132" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:132
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@6, 1xitem.thermalfoundation.material@197, 1xitem.immersiveengineering.metal@24] => 1*thermalfoundation:material:133" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*thermalfoundation:material:133
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:198 => 1*thermalfoundation:material:134" ingredient cost: 4095 value of result: 4096 setValueFromConversion: 0 + 16*OD: ingotIron => 1*thermalfoundation:material:134
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@1, 1xitem.thermalfoundation.material@192, 1xitem.immersiveengineering.metal@20] => 1*thermalfoundation:material:128" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:128
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@2, 1xitem.thermalfoundation.material@193] => 1*thermalfoundation:material:129" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*thermalfoundation:material:129
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@4, 1xitem.thermalfoundation.material@194, 1xitem.immersiveengineering.metal@23] => 1*thermalfoundation:material:130" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:130
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.railcraft.nugget@3, 1xitem.thermalfoundation.material@195, 1xitem.immersiveengineering.metal@22] => 1*thermalfoundation:material:131" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:131
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:27 => 1*immersiveengineering:metal:7" ingredient cost: 1278 value of result: 1280 setValueFromConversion: 0 + 1*OD: ingotSilver + 1*OD: ingotGold => 2*immersiveengineering:metal:7
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:24 => 1*immersiveengineering:metal:4" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*immersiveengineering:metal:4
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*immersiveengineering:metal:25 => 1*immersiveengineering:metal:5) cost 4095 but output value is 4096
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:22 => 1*immersiveengineering:metal:2" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*immersiveengineering:metal:2
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:23 => 1*immersiveengineering:metal:3" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*immersiveengineering:metal:3
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:20 => 1*immersiveengineering:metal:0" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*immersiveengineering:metal:0
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*immersiveengineering:metal:21 => 1*immersiveengineering:metal:1" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*immersiveengineering:metal:1
+[13:27:28] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:16 => 1*minecraft:diamond:0) cost 8190 but output value is 8192
+[13:27:28] [Server thread/INFO] [projecte]: Registered 1575 EMC values. (took 999 ms)
+[13:27:29] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[13:27:29] [Server thread/INFO] [immersiveengineering]: WorldData not found
+[13:27:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[13:27:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[13:27:30] [Thread-21/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
+[13:27:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2380ms behind, skipping 47 tick(s)
+[13:28:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:28:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:28:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
